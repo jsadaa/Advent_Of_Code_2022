@@ -1,0 +1,15 @@
+/Users/leopaillard/RiderProjects/AOC2022/Day1/bin/Debug/net7.0/Day1
+/Users/leopaillard/RiderProjects/AOC2022/Day1/bin/Debug/net7.0/Day1.deps.json
+/Users/leopaillard/RiderProjects/AOC2022/Day1/bin/Debug/net7.0/Day1.runtimeconfig.json
+/Users/leopaillard/RiderProjects/AOC2022/Day1/bin/Debug/net7.0/Day1.dll
+/Users/leopaillard/RiderProjects/AOC2022/Day1/bin/Debug/net7.0/Day1.pdb
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.csproj.AssemblyReference.cache
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.AssemblyInfoInputs.cache
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.AssemblyInfo.cs
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.csproj.CoreCompileInputs.cache
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.dll
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/refint/Day1.dll
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.pdb
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/Day1.genruntimeconfig.cache
+/Users/leopaillard/RiderProjects/AOC2022/Day1/obj/Debug/net7.0/ref/Day1.dll
